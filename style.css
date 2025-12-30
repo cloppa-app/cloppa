@@ -27,12 +27,12 @@ body {
 }
 
 h1 {
-    font-family: "Poppins";
-    font-weight: 300;
+    font-family: "Quicksand";
+    font-weight: 600;
 }
 
 p {
-    font-family: "Poppins";
-    font-weight: 100;
+    font-family: "Quicksand";
+    font-weight: 300;
     margin: 10px;
 }
