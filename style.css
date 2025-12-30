@@ -1,6 +1,5 @@
 body {
     background: #faf0ca;
-    font-family: "Quicksand";
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -27,6 +26,11 @@ body {
     margin: 0px;
 }
 
+h1 {
+    font-family: "Poppins";
+}
+
 p {
+    font-family: "Inter";
     margin: 10px;
 }
